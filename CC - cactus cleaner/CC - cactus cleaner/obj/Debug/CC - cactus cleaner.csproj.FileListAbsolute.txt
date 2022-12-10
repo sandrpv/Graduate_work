@@ -1,0 +1,12 @@
+D:\Danger\CC - cactus cleaner\CC - cactus cleaner\bin\Debug\CC - cactus cleaner.exe.config
+D:\Danger\CC - cactus cleaner\CC - cactus cleaner\bin\Debug\CC - cactus cleaner.exe
+D:\Danger\CC - cactus cleaner\CC - cactus cleaner\bin\Debug\CC - cactus cleaner.pdb
+D:\Danger\CC - cactus cleaner\CC - cactus cleaner\obj\Debug\CC - cactus cleaner.csproj.AssemblyReference.cache
+D:\Danger\CC - cactus cleaner\CC - cactus cleaner\obj\Debug\CC___cactus_cleaner.CC___cactus_cleaner.resources
+D:\Danger\CC - cactus cleaner\CC - cactus cleaner\obj\Debug\CC___cactus_cleaner.Properties.Resources.resources
+D:\Danger\CC - cactus cleaner\CC - cactus cleaner\obj\Debug\CC - cactus cleaner.csproj.GenerateResource.cache
+D:\Danger\CC - cactus cleaner\CC - cactus cleaner\obj\Debug\CC - cactus cleaner.csproj.CoreCompileInputs.cache
+D:\Danger\CC - cactus cleaner\CC - cactus cleaner\obj\Debug\CC - cactus cleaner.exe
+D:\Danger\CC - cactus cleaner\CC - cactus cleaner\obj\Debug\CC - cactus cleaner.pdb
+D:\Danger\CC - cactus cleaner\CC - cactus cleaner\obj\Debug\CC___cactus_cleaner.Help.resources
+D:\Danger\CC - cactus cleaner\CC - cactus cleaner\obj\Debug\CC___cactus_cleaner.Cleaner.resources
